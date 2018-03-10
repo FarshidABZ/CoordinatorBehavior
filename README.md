@@ -3,7 +3,8 @@
 In this example I've tried to replicate the profile animation of Telegram to show how a `CoordinatorLayout.Behavior` could be used.
 
 ### Demo
-![](https://github.com/FarshidABZ/CoordinatorBehavior/blob/master/art/profile2.gif?raw=true =128x)
+
+![](https://github.com/FarshidABZ/CoordinatorBehavior/blob/master/art/profile2.gif?raw=true =250x250)
 
 ### Usage
 
