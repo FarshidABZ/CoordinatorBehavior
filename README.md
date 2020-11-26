@@ -4,7 +4,7 @@ In this example I've tried to replicate the profile animation of Telegram to sho
 
 ### Demo
 
-![GIF](https://github.com/FarshidABZ/CoordinatorBehavior/blob/master/art/profile2.gif =250x250)
+<img src="arts/profile.gif" width=250>
 
 ### Usage
 
